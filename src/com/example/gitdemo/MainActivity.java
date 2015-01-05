@@ -12,6 +12,7 @@ public class MainActivity extends Activity {
 		setContentView(R.layout.activity_main);
 		//修改过
 		//wo
+		//welklsjdflksd f
 	}
 
 	@Override
